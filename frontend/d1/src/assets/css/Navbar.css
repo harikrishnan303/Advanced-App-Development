@@ -1,0 +1,101 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1ddcd8; /* Replace with your desired background color */
+    padding: 10px 50px;
+    body, html {
+        margin: 0;
+        padding: 0;
+    }
+    .navbar:hover {
+        transform: translateX(0); /* Slide in on hover */
+      }
+    
+    .navbar {
+        margin-top: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #7700ff; /* Replace with your desired background color */
+        padding: 10px 50px;
+        transition: transform 0.3s ease;
+    }
+    
+    .nav-logo {
+        color: white;
+        font-size: 24px;
+    }
+    
+    .nav-links {
+        display: flex;
+    }
+    
+    .nav-link {
+        color: rgb(11, 10, 10);
+        margin-right: 20px;
+        transition: color 0.3s ease; /* Add transition for smooth color change */
+    }
+    
+    .nav-link:hover {
+        color: #af2929; /* Change color on hover */
+    }
+    
+    /* Connect button style */
+    .connect-button {
+        background-color: white;
+        border: none;
+        color: black;
+        padding: 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    
+    .connect-button:hover {
+        background-color: #d82c2c; /* Change background color on hover */
+        color: white; /* Change text color on hover */
+    }
+    
+}
+
+.nav-logo {
+    color: white;
+    font-size: 24px;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.nav-link {
+    color: rgb(11, 10, 10);
+    margin-right: 20px;
+    transition: color 0.3s ease; /* Add transition for smooth color change */
+}
+
+.nav-link:hover {
+    color: #0c890c; /* Change color on hover */
+}
+
+/* Connect button style */
+.connect-button {
+    background-color: white;
+    border: none;
+    color: rgb(21, 183, 43);
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.connect-button:hover {
+    background-color: #0800ff; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
