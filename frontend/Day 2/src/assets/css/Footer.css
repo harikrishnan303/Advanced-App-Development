@@ -1,0 +1,21 @@
+/* Footer.css */
+
+.app-footer {
+    background-color: #1ddcd8;;
+    color: #0f0f0f;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 
+    100%;
+  }
+  .email-link {
+    color: rgb(0, 0, 0); /* Set the color to black */
+    text-decoration: none; /* Remove underline from the link */
+  }
+  .ph-no{
+    color: rgb(4, 4, 4); /* Set the color to black */
+    text-decoration: none; /* Remove underline from the link */
+  }
+  
