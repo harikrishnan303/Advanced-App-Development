@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.backend</groupId>
-	<artifactId>edugateway</artifactId>
+	<artifactId>eduadmitconnect</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>edugateway</name>
+	<name>eduadmitconnect</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
